@@ -188,6 +188,9 @@ pizza.html
 
 # OUTPUT
 ![Screenshot 2025-05-16 221128](https://github.com/user-attachments/assets/6b5ecc31-9a7d-47c4-929f-64e9969cece1)
+![Screenshot 2025-05-16 221335](https://github.com/user-attachments/assets/c635d0a7-c6e5-4a12-8649-e125db16b004)
+![Screenshot 2025-05-16 221359](https://github.com/user-attachments/assets/2695d20e-5344-4cfc-8db4-bade9cb46f97)
+![Screenshot 2025-05-16 221412](https://github.com/user-attachments/assets/2612145f-b54f-4783-9fef-4db8ad0cbccb)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
